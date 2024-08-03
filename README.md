@@ -16,7 +16,7 @@ Welcome to the **Dynamic Programming Solutions** repository! This repository is 
 To clone this repository, run the following command in your terminal:
 
 ```sh
-git clone https://github.com/yourusername/dynamic-programming-solutions.git
+git clone https://github.com/akhildhiman7/dynamic-programming.git
 ```
 
 ### Navigate to the Directory
@@ -24,7 +24,7 @@ git clone https://github.com/yourusername/dynamic-programming-solutions.git
 Change into the repository directory:
 
 ```sh
-cd dynamic-programming-solutions
+cd dynamic-programming
 ```
 
 ### Compile and Run Solutions
